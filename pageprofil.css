@@ -1,0 +1,108 @@
+body{background-image: url("http://ngn-mag.com/image/wallpaper/fond-ecran-space-65.jpg");
+
+}
+
+img { width: 250px;
+      margin-top: 10px;
+      margin-left: 10px;
+
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color:  black;
+    position: relative;
+    top :-250px
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color:  black;
+    position: relative;
+    top: -250px;
+}
+
+p {
+    font-size: 20px;
+    text-align: left;
+    color:  black;
+    position: relative;
+    top: -150px
+
+}
+
+h3 {
+    font-size: 30px;
+    text-align: left;
+    color:  black;
+    position: relative ;
+    top: -100px;
+    left: -0%;
+    margin-left: 10px;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: left;
+    color:  black;
+    position: relative ;
+    top: -315px;
+    left: 40%;
+
+}
+
+
+
+h5 {
+    font-size: 30px;
+    text-align: left;
+    color:  black;
+    position: relative ;
+    top: -555px;
+    left: 75%;
+}
+
+ul {
+    font-size: 20px;
+    color:  black;
+}
+
+div1{
+    position: relative ;
+    top: -100px;
+
+}
+div2{
+
+    position: relative ;
+    top: -335px;
+    left: 40%;
+}
+
+div3{
+
+    position: relative ;
+    top: -585px;
+    left: 75%;
+
+}
+
+#linkedin {
+    position: relative;
+    top:-550px;
+    left:1300px;
+
+}
+
+#github {
+   position: relative;
+    top:-700px;
+    left:600px;
+}
+
+#facebook {
+    position: relative;
+    top:-850px;
+}
