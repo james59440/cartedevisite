@@ -11,15 +11,18 @@ img { width: 250px;
 h1 {
     font-size: 50px;
     text-align: center;
-    color:  black;
+    color:  red;
     position: relative;
     top :-250px
+
+
 }
+
 
 h2 {
     font-size: 40px;
     text-align: center;
-    color:  black;
+    color:  red;
     position: relative;
     top: -250px;
 }
@@ -91,18 +94,19 @@ div3{
 
 #linkedin {
     position: relative;
-    top:-550px;
-    left:1300px;
+    top:-600px;
+    left:1200px;
 
 }
 
 #github {
    position: relative;
-    top:-700px;
-    left:600px;
+    top:-600px;
+    left:300px;
 }
 
 #facebook {
     position: relative;
-    top:-850px;
+    top:-600px;
+    left:-500px;
 }
