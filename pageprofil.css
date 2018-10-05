@@ -9,9 +9,11 @@ img { width: 250px;
 }
 
 h1 {
+    font-family: Calibri;
     font-size: 50px;
     text-align: center;
     color:  red;
+    line-height: 5px;
     position: relative;
     top :-250px
 
@@ -20,11 +22,13 @@ h1 {
 
 
 h2 {
+    font-family: Calibri;
     font-size: 40px;
     text-align: center;
     color:  red;
+    line-height: 5px;
     position: relative;
-    top: -250px;
+    top: -200px;
 }
 
 p {
